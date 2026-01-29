@@ -31,7 +31,7 @@ Experienced in Django-based backend systems, applied machine learning with prope
 - Python
 - Java
 - JavaScript
-- SQL
+- C
 
 ### 🌐 Frontend & Mobile
 - HTML5, CSS3
@@ -41,6 +41,7 @@ Experienced in Django-based backend systems, applied machine learning with prope
 ### 🌐 Backend & Web
 - Django
 - Django REST Framework
+- FastAPI
 - RESTful API design
 - Authentication & authorization
 
