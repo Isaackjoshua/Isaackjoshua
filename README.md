@@ -21,7 +21,7 @@
 Computer Science undergraduate with hands-on experience in **backend development, machine learning, and system design**.  
 Focused on building **reliable systems**, understanding fundamentals, and writing **maintainable, production-minded code**.
 
-Experienced in Django-based backend systems, applied machine learning with proper evaluation, and security-aware transaction workflows.
+Experienced in Building backend systems, applied machine learning with proper evaluation, and security-aware transaction workflows.
 
 ---
 
@@ -47,6 +47,7 @@ Experienced in Django-based backend systems, applied machine learning with prope
 
 ### 🤖 Machine Learning & Data
 - Supervised learning
+- Unsupervised Learning
 - CNN-based image classification
 - Model evaluation (ROC, AUC, Precision, Recall)
 - Data preprocessing & analysis
@@ -58,6 +59,7 @@ Experienced in Django-based backend systems, applied machine learning with prope
 
 ### ⚙ Tools & Platforms
 - Git & GitHub
+- Docker
 - Linux (Ubuntu)
 - Virtual environments
 
