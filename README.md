@@ -132,4 +132,4 @@ St Joseph University, Tanzania
 ## 📌 Notes for Reviewers
 
 This repository serves as a **living technical portfolio**.  
-Projects demonstrate applied problem-solving, system thinking, and consistent engineering growth. Looking foward to work together
+Projects demonstrate applied problem-solving, system thinking, and consistent engineering growth.
