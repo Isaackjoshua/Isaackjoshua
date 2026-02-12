@@ -18,7 +18,7 @@
 
 ## 🧭 Profile
 
-Computer Science undergraduate with hands-on experience in **backend development, machine learning, and system design**.  
+I am a Computer Science undergraduate with hands-on experience in **backend development, machine learning, and system design**.  
 Focused on building **reliable systems**, understanding fundamentals, and writing **maintainable, production-minded code**.
 
 Experienced in Building backend systems, applied machine learning with proper evaluation, and security-aware transaction workflows.
@@ -60,6 +60,7 @@ Experienced in Building backend systems, applied machine learning with proper ev
 ### ⚙ Tools & Platforms
 - Git & GitHub
 - Docker
+- Postman
 - Linux (Ubuntu)
 - Virtual environments
 
