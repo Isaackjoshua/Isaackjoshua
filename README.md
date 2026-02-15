@@ -32,6 +32,7 @@ Experienced in Building backend systems, applied machine learning with proper ev
 - Java
 - JavaScript
 - C
+- C++
 
 ### 🌐 Frontend & Mobile
 - HTML5, CSS3
