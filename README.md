@@ -1,4 +1,4 @@
-# 👨‍💻 Isaack Joshua  
+# 👨‍💻Hi! I am Isaack Joshua  
 ### Computer Science Undergraduate | Backend & Machine Learning Engineer
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
