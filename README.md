@@ -119,7 +119,7 @@ Experienced in Building backend systems, applied machine learning with proper ev
 
 **Bachelor of Science in Computer Science**  
 St Joseph University, Tanzania  
-*2023 – 2026*
+*2023 – 2026(present)*
 
 ---
 
