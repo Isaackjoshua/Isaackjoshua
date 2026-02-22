@@ -134,3 +134,4 @@ St Joseph University, Tanzania
 
 This repository serves as a **living technical portfolio**.  
 Projects demonstrate applied problem-solving, system thinking, and consistent engineering growth.
+I am open for collaboration
