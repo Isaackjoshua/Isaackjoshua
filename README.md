@@ -1,137 +1,131 @@
-# 👨‍💻Hi! I am Isaack Joshua  
-### Computer Science Undergraduate | Backend & Machine Learning Engineer
+<h1 align="center">Hi, I'm Isaack Joshua 👋</h1>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ML-blue)
-![Linux](https://img.shields.io/badge/Linux-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+<p align="center">
+  <a href="https://github.com/Isaackjoshua">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&width=620&lines=Backend+%26+Applied+ML+Engineer;Python+%C2%B7+FastAPI+%C2%B7+PyTorch+%C2%B7+PostgreSQL;I+build+systems+and+actually+deploy+them;Open+to+remote+internships+%26+2026+grad+roles" alt="Typing SVG" />
+  </a>
+</p>
 
----
-
-## 🧭 Profile
-
-I am a Computer Science undergraduate with hands-on experience in **backend development, AI/machine learning, and system design**.  
-Focused on building **reliable systems**, understanding fundamentals, and writing **maintainable, production-minded code**.
-
-Experienced in Building backend systems, applied machine learning with proper evaluation, and security-aware transaction workflows.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Isaackjoshua&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://www.linkedin.com/in/isaack-joshua-7277ba29a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Tanzania-1EB53A?style=flat&logo=googlemaps&logoColor=white" alt="Tanzania" />
+  <img src="https://img.shields.io/badge/Open%20to%20remote-success?style=flat" alt="Open to remote" />
+</p>
 
 ---
 
-## 🛠 Technical Skills
+### 👨🏽‍💻 About me
 
-### 💻 Programming
-- Python
-- Java
-- JavaScript
-- C
-- C++
+Computer Science undergraduate at **St Joseph University, Tanzania** (B.Sc., graduating **September 2026**). I build **backend services in Python (FastAPI / Django)** and **applied ML in PyTorch** — with a focus on **healthcare and real-world problems in emerging markets**.
 
-### 🌐 Frontend & Mobile
-- HTML5, CSS3
-- React
-- React Native
+I don't just train models in notebooks or run code in `localhost`. I provision Ubuntu servers, set up nginx + Docker + HTTPS, and deploy what I build. I care about systems that actually run.
 
-### 🌐 Backend & Web
-- Django
-- Django REST Framework
-- FastAPI
-- RESTful API design
-- Authentication & authorization
-
-### 🤖 Machine Learning & Data
-- Supervised learning
-- Unsupervised Learning
-- CNN-based image classification
-- Model evaluation (ROC, AUC, Precision, Recall)
-- Data preprocessing & analysis
-- Model explainability (Grad-CAM)
-
-### 🗄 Databases
-- PostgreSQL
-- SQLite
-
-### ⚙ Tools & Platforms
-- Git & GitHub
-- Docker
-- Postman
-- Linux (Ubuntu)
-- Virtual environments
+**📬 Open to remote internships and 2026 graduate roles in backend or ML engineering.**
 
 ---
 
-## 📂 Selected Projects
+### 🚀 What I'm building right now
 
-### 🔹 Machine Learning Projects
-**Handwritten Digit Recognition**  
-- Built classification models with structured evaluation  
-- Focused on metrics, error analysis, and model behavior  
-
-**Medical Image Classification**  
-- CNN-based disease detection models  
-- ROC/AUC analysis and bias evaluation  
-- Applied explainability techniques for interpretability  
+- 🧠 **American Sign Language → text translator** — CNN-based recognition pipeline (ResNet / MobileNet, PyTorch) with transfer learning and webcam inference
+- 🏥 **DICOM medical imaging tool** — PyQt6 desktop app for converting DICOM scans to MP4 with proper medical-imaging windowing (pydicom + FFmpeg)
+- ⚙️ **Production FastAPI services** running on my self-managed Ubuntu VPS (nginx, Docker, Let's Encrypt)
+- 📚 Working through **HuggingFace Transformers, RAG systems, and vector databases** as part of a structured 8-week ML engineering program
 
 ---
 
-### 🔹 Backend & Web Systems
-**Event & Ticket Management System**  
-- Django backend with REST APIs  
-- Role-based authentication and serialization  
-- Business logic for ticket workflows  
+### 🛠 Tech stack
 
-**Messaging & Notification Workflows**  
-- Backend message delivery logic  
-- PDF ticket generation and distribution  
+<table>
+  <tr>
+    <td valign="top" width="33%">
 
----
+**Backend & APIs**
 
-### 🔹 System Design & Security-Oriented Work
-**Digital Escrow System**  
-- Designed transaction-safe escrow workflows  
-- Focused on fraud prevention and trust mechanisms  
-- Modeled mobile money API integration  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Multisignature-Style Transaction Logic**  
-- Approval-based transaction design  
-- Emphasis on reliability and failure handling  
+</td>
+    <td valign="top" width="33%">
 
----
+**Machine Learning**
 
-## 🧠 Engineering Principles
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-- Understanding over shortcuts  
-- Clean, readable, documented code  
-- Debugging as part of the craft  
-- Small, complete systems > large unfinished ideas  
-- Design with real-world constraints  
+</td>
+    <td valign="top" width="33%">
 
----
+**Infra & Tooling**
 
-## 🎓 Education
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Bachelor of Science in Computer Science**  
-St Joseph University, Tanzania  
-*2023 – 2026
+</td>
+  </tr>
+</table>
 
 ---
 
-## 🔗 Links
+### 📌 Featured projects
 
-- **GitHub:** https://github.com/Isaackjoshua  
-- **LinkedIn:** https://www.linkedin.com/in/isaack-joshua-7277ba29a  
+> 🔧 **Replace the `REPO_NAME` placeholders below with your actual repository names before publishing.**
+
+#### 🤟 [ASL Translator — CNN sign language recognition](https://github.com/Isaackjoshua/REPO_NAME)
+`PyTorch` · `ResNet/MobileNet` · `OpenCV` · `Transfer Learning`
+
+Real-time American Sign Language → text recognition system. Trained transfer-learning models on labeled hand-sign datasets, evaluated with per-class F1 and confusion matrices, and packaged with a webcam inference script. Built end-to-end as an independent project.
+
+➡️ **[View repository](https://github.com/Isaackjoshua/REPO_NAME)**
+
+#### 🏥 [DICOM-to-Video Extractor — medical imaging tool](https://github.com/Isaackjoshua/REPO_NAME)
+`Python` · `PyQt6` · `pydicom` · `FFmpeg`
+
+Desktop application that loads DICOM studies, handles multi-frame and multi-series files, and exports them to MP4 with correct windowing for clinical review. Designed with proper handling of DICOM metadata and medical-imaging conventions.
+
+➡️ **[View repository](https://github.com/Isaackjoshua/REPO_NAME)**
+
+#### ⚙️ [FastAPI Backend on Self-Managed VPS — production deployment](https://github.com/Isaackjoshua/REPO_NAME)
+`FastAPI` · `PostgreSQL` · `Docker` · `Nginx` · `Certbot`
+
+End-to-end deployment of a Python backend on an Ubuntu VPS: provisioning, reverse proxy with nginx, HTTPS via Let's Encrypt, containerized services, and proper Docker process management. Demonstrates real ops capability beyond `python main.py`.
+
+➡️ **[View repository](https://github.com/Isaackjoshua/REPO_NAME)** · 🌐 **[Live demo](https://YOUR_DOMAIN_HERE)**
 
 ---
 
-## 📌 Notes for Reviewers
+### 📊 GitHub activity
 
-This repository serves as a **living technical portfolio**.  
-Projects demonstrate applied problem-solving, system thinking, and consistent engineering growth.
-I am open for collaboration
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Isaackjoshua&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaackjoshua&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Isaackjoshua&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Isaackjoshua&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
+</p>
+
+---
+
+### 📫 Get in touch
+
+I'm actively looking for **remote internships** and **2026 graduate roles** in backend or ML engineering. If you're hiring, building something interesting in healthcare AI, or want to collaborate — reach out.
+
+- 📧 **Email:** `isaackjoshua23@gmail.com`
+- 💼 **LinkedIn:** [isaack-joshua](https://www.linkedin.com/in/isaack-joshua-7277ba29a)
+- 🌍 **Based in:** Dar es Salaam, Tanzania · open to **remote** worldwide
+
+---
+
+<p align="center"><i>Building real systems, one deployment at a time.</i></p>
