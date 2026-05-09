@@ -76,7 +76,6 @@ I don't just train models in notebooks or run code in `localhost`. I provision U
 
 ### 📌 Featured projects
 
-> 🔧 **Replace the `REPO_NAME` placeholders below with your actual repository names before publishing.**
 
 #### 🤟 [ASL Translator — CNN sign language recognition](https://github.com/Isaackjoshua/REPO_NAME)
 `PyTorch` · `ResNet/MobileNet` · `OpenCV` · `Transfer Learning`
