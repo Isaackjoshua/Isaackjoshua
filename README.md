@@ -89,7 +89,7 @@ Real-time American Sign Language → text recognition system. Trained transfer-l
 
 Desktop application that loads DICOM studies, handles multi-frame and multi-series files, and exports them to MP4 with correct windowing for clinical review. Designed with proper handling of DICOM metadata and medical-imaging conventions.
 
-➡️ **[View repository](https://github.com/Isaackjoshua/REPO_NAME)**
+➡️ **[View repository](https://github.com/Isaackjoshua/DICOM)**
 
 #### ⚙️ [FastAPI Backend on Self-Managed VPS — production deployment](https://github.com/Isaackjoshua/REPO_NAME)
 `FastAPI` · `PostgreSQL` · `Docker` · `Nginx` · `Certbot`
