@@ -119,7 +119,7 @@ End-to-end deployment of a Python backend on an Ubuntu VPS: provisioning, revers
 
 ### 📫 Get in touch
 
-I'm actively looking for **remote internships** and **2026 graduate roles** in backend or ML engineering. If you're hiring, building something interesting in healthcare AI, or want to collaborate — reach out.
+I'm actively looking for **remote internships** and **2026 graduate roles** in backend or ML engineering. If you're hiring, building something interesting, or want to collaborate — reach out.
 
 - 📧 **Email:** `isaackjoshua23@gmail.com`
 - 💼 **LinkedIn:** [isaack-joshua](https://www.linkedin.com/in/isaack-joshua-7277ba29a)
