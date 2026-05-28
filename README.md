@@ -28,7 +28,7 @@ I don't just train models in notebooks or run code in `localhost`. I provision U
 
 ### 🚀 What I'm building right now
 
-- 🧠 **American Sign Language → text translator** — CNN-based recognition pipeline (ResNet / MobileNet, PyTorch) with transfer learning and webcam inference
+- 🧠 **Mwana AI → Breast Cancer ai** — An offline-capable Android application for AI-assisted breast ultrasound analysis.
 - 🏥 **DICOM medical imaging tool** — PyQt6 desktop app for converting DICOM scans to MP4 with proper medical-imaging windowing (pydicom + FFmpeg)
 - ⚙️ **Production FastAPI services** running on my self-managed Ubuntu VPS (nginx, Docker, Let's Encrypt)
 - 📚 Working through **HuggingFace Transformers, RAG systems, and vector databases** as part of a structured 8-week ML engineering program
