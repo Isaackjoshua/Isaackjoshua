@@ -77,10 +77,10 @@ I don't just train models in notebooks or run code in `localhost`. I provision U
 ### 📌 Featured projects
 
 
-#### 🤟 [ASL Translator — CNN sign language recognition](https://github.com/Isaackjoshua/REPO_NAME)
+#### 🤟 [Breast-Cancer-ai](https://github.com/Isaackjoshua/REPO_NAME)
 `PyTorch` · `ResNet/MobileNet` · `OpenCV` · `Transfer Learning`
 
-Real-time American Sign Language → text recognition system. Trained transfer-learning models on labeled hand-sign datasets, evaluated with per-class F1 and confusion matrices, and packaged with a webcam inference script. Built end-to-end as an independent project.
+An offline-capable Android application for AI-assisted breast ultrasound analysis. It classifies lesions into BI-RADS categories, segments the region of interest, and generates a structured clinical report — entirely on-device, with no cloud dependency after first setup.
 
 ➡️ **[View repository](https://github.com/Isaackjoshua/REPO_NAME)**
 
