@@ -82,7 +82,7 @@ I don't just train models in notebooks or run code in `localhost`. I provision U
 
 An offline-capable Android application for AI-assisted breast ultrasound analysis. It classifies lesions into BI-RADS categories, segments the region of interest, and generates a structured clinical report — entirely on-device, with no cloud dependency after first setup.
 
-➡️ **[View repository](https://github.com/Isaackjoshua/REPO_NAME)**
+➡️ **[View repository](https://github.com/Isaackjoshua/breast_cancer_ai)**
 
 #### 🏥 [DICOM-to-Video Extractor — medical imaging tool](https://github.com/Isaackjoshua/REPO_NAME)
 `Python` · `PyQt6` · `pydicom` · `FFmpeg`
