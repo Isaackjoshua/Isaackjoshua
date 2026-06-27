@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Isaack Joshua 👋</h1>
+<h1 align="center">Hi., I'm Isaack Joshua 👋</h1>
 
 <p align="center">
   <a href="https://github.com/Isaackjoshua">
