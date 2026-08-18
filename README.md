@@ -18,7 +18,7 @@
 
 ### 👨🏽‍💻 About me
 
-Backend & applied ML engineer building **production services in Python (FastAPI / Django)** and **medical-imaging ML in PyTorch** — focused on **healthcare and real-world problems in emerging markets**. Completing my B.Sc. in Computer Science at **St Joseph University, Tanzania** in **September 2026**.
+Backend & applied ML engineer. I build **production services in Python (FastAPI / Django)** and **ML systems in PyTorch**, and I ship across domains — **payments, developer tooling, education, messaging, and medical imaging**. Completing my B.Sc. in Computer Science at **St Joseph University, Tanzania** in **September 2026**.
 
 I don't just train models in notebooks or run code in `localhost`. I provision Ubuntu servers, set up nginx + Docker + HTTPS, fine-tune foundation models on real data, and ship the results to actual devices. I care about systems that actually run.updates
 
