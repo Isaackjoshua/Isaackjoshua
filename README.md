@@ -20,7 +20,7 @@
 
 Backend & applied ML engineer. I build **production services in Python (FastAPI / Django)** and **ML systems in PyTorch**, and I ship across domains — **payments, developer tooling, education, messaging, and medical imaging**. Completing my B.Sc. in Computer Science at **St Joseph University, Tanzania** in **September 2026**.
 
-I don't just train models in notebooks or run code in `localhost`. I provision Ubuntu servers, set up nginx + Docker + HTTPS, fine-tune foundation models on real data, and ship the results to actual devices. I care about systems that actually run.updates
+I don't just train models in notebooks or run code in `localhost`. I provision Ubuntu servers, set up nginx + Docker + HTTPS, design APIs and schemas that hold up under real traffic, and get models running on the hardware people actually have — offline, on-device, low-bandwidth. I care about systems that actually run.
 
 
 **📬 Available for remote backend / ML engineering roles — full-time from October 2026, internship or contract starting now.**
