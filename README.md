@@ -149,4 +149,4 @@ Desktop application that loads DICOM studies, handles multi-frame and multi-seri
 
 ---
 
-<p align="center"><i>Building real systems, one deployment at a time.</i></p>
+<p align="center"><i>Building real systems.</i></p>
