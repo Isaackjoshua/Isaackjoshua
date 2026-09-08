@@ -141,8 +141,7 @@ Desktop application that loads DICOM studies, handles multi-frame and multi-seri
 ---
 
 ### 📫 Get in touch
-
-I finish my degree in **September 2026** and I'm ready to work now — remote **backend or ML engineering** roles, whether full-time, contract, or internship-to-hire. If you're hiring, building something interesting, or want to collaborate — reach out.
+**backend or ML engineering** roles, whether full-time, contract, or internship-to-hire. If you're hiring, building something interesting, or want to collaborate — reach out.
 
 - 📧 **Email:** `isaackjoshua23@gmail.com`
 - 💼 **LinkedIn:** [isaack-joshua](https://www.linkedin.com/in/isaack-joshua-7277ba29a)
