@@ -18,7 +18,7 @@
 
 ### 👨🏽‍💻 About me
 
-Backend & applied ML engineer. I build **production services in Python (FastAPI / Django)** and **ML systems in PyTorch**, and I ship across domains — **payments, developer tooling, education, messaging, and medical imaging**. Tanzania** in **September 2026**.
+Backend & applied ML engineer. I build **production services in Python (FastAPI / Django)** and **ML systems in PyTorch**, and I ship across domains — **payments, developer tooling, education, messaging, and medical imaging**.
 
 I don't just train models in notebooks or run code in `localhost`. I provision Ubuntu servers, set up nginx + Docker + HTTPS, design APIs and schemas that hold up under real traffic, and get models running on the hardware people actually have — offline, on-device, low-bandwidth. I care about systems that actually run.
 
