@@ -23,7 +23,7 @@ Backend & applied ML engineer. I build **production services in Python (FastAPI 
 I don't just train models in notebooks or run code in `localhost`. I provision Ubuntu servers, set up nginx + Docker + HTTPS, design APIs and schemas that hold up under real traffic, and get models running on the hardware people actually have — offline, on-device, low-bandwidth. I care about systems that actually run.
 
 
-**📬 Available for remote backend / ML engineering roles — full-time from Oc, internship or contract starting now.**
+**📬 Available for remote backend / ML engineering roles — full-time fro, internship or contract starting now.**
 
 ---
 
