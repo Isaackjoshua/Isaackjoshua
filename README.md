@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.jpeg" alt="PROJECT.EXE — pixel-art hands reaching toward a retro computer window" width="100%" />
+  <img src="./assets/header.jpeg" alt="PROJECT.EXE — pixel-art hands reaching toward a retro computer window" width="60%" />
 </p>
 
 <h1 align="center">Isaack Joshua</h1>
