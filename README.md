@@ -220,8 +220,8 @@ Ubuntu servers with nginx, Docker and TLS. Flutter for mobile, Electron and PyQt
 <h3><img src="./assets/headings/activity.svg" alt="$ git log --graph — GitHub activity" height="44" /></h3>
 
 <p align="center">
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Isaackjoshua&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=D2A8FF&text_color=C9D1D9&icon_color=F778BA&ring_color=D2A8FF" />
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaackjoshua&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=D2A8FF&text_color=C9D1D9" />
+   <img height="165" alt="GitHub stats" src="./profile/stats.svg" />
+  <img height="165" alt="Top languages" src="./profile/top-langs.svg" />
 </p>
 
 <p align="center">
