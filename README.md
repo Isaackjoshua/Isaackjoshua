@@ -2,9 +2,7 @@
   <img src="./assets/header.jpeg" alt="PROJECT.EXE — pixel-art hands reaching toward a retro computer window" width="60%" />
 </p>
 
-<h1 align="center">
-  <img src="./assets/name.svg" alt="Isaack Joshua" height="80" />
-</h1>
+<h1 align="center">Isaack Joshua</h1>
 
 <p align="center">
   <b>Machine Learning Engineer</b> · PyTorch · TensorFlow · ONNX · LLM agents<br/>
@@ -23,10 +21,6 @@
   <a href="https://isaackjoshua.com"><img src="https://img.shields.io/badge/isaackjoshua.com-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="https://www.linkedin.com/in/isaack-joshua-7277ba29a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:isaackjoshua23@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-<p align="center">
-  <img src="./assets/divider.svg" alt="" width="100%" />
 </p>
 
 > [!TIP]
@@ -247,10 +241,6 @@ Hiring for **ML / AI engineering** — or backend work that sits close to the mo
   <a href="https://www.linkedin.com/in/isaack-joshua-7277ba29a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://isaackjoshua.com"><img src="https://img.shields.io/badge/isaackjoshua.com-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="https://isaackjoshua.com/Isaack_Joshua_Lukumay_CV.pdf"><img src="https://img.shields.io/badge/%E2%86%93%20Download%20CV-2EA043?style=for-the-badge" alt="Download CV" /></a>
-</p>
-
-<p align="center">
-  <img src="./assets/divider.svg" alt="" width="100%" />
 </p>
 
 <p align="center"><sub><code>PROJECT.EXE</code> exited with status 0 · built in Dar es Salaam, Tanzania</sub></p>
