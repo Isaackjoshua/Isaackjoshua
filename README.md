@@ -52,7 +52,7 @@ class Isaack:
 - Built **Mwana AI**, offline breast-ultrasound classification for Tanzanian clinics — PyTorch → ONNX Runtime → Flutter
 - Trained a CNN for **TB/HIV co-infection detection** from chest X-rays, with Grad-CAM explanations and ROC/AUC evaluation across demographic subgroups
 - Fine-tuning **RETFound** for diabetic retinopathy; transfer learning on cardiac imaging for dilated-cardiomyopathy prediction
-- Structured data for a multi-institution respiratory study (Aga Khan University, University of Warwick, NTLP)
+- Structured data for a multi-institution respiratory study
 
 **B.Sc. (Hons) Computer Science** — St. Joseph University in Tanzania · *2023 – 2026*
 
