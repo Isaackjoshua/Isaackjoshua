@@ -219,7 +219,7 @@ Ubuntu servers with nginx, Docker and TLS. Flutter for mobile, Electron and PyQt
 
 ## $ ./contact --hire
 
-Hiring for **ML / AI engineering** — or backend work  sits close to the models? Full-time, contract or internship-to-hire, email is the fastest way to reach me. Tell me the constraint you're building against and I'll tell you straight whether I'm the right person for it.
+Hiring for **ML / AI engineering** — or backend work close to the models? Full-time, contract or internship-to-hire, email is the fastest way to reach me. Tell me the constraint you're building against and I'll tell you straight whether I'm the right person for it.
 
 <p>
   <a href="mailto:isaackjoshua23@gmail.com"><img src="https://img.shields.io/badge/isaackjoshua23%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
