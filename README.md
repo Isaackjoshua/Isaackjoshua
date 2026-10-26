@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>Machine Learning Engineer</b> · PyTorch · TensorFlow · ONNX · LLM agents<br/>
-  Dar es Salaam, Tanzania · UTC+3 · Remote worldwide or relocate
+  Dar es Salaam, Tanzania · UTC+3 · Remote worldwide or relocating
 </p>
 
 <p align="center">
