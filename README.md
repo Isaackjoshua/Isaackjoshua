@@ -24,7 +24,7 @@
 </p>
 
 > [!TIP]
-> **Hiring?** I'm open to remote **ML / AI engineering** roles worldwide — including ML-heavy backend work — and to relocation. Contract or internship now, full-time from October 2026. EAT (UTC+3) covers the full European workday and US East Coast mornings. Fastest reply:::::: [isaackjoshua23@gmail.com](mailto:isaackjoshua23@gmail.com)
+> **Hiring?** I'm open to remote **ML / AI engineering** roles worldwide — including ML-heavy backend work — and to relocation. Contract or internship now, full-time from October 2026. EAT (UTC+3) covers the full European workday and US East Coast mornings. Fastest reply::::: [isaackjoshua23@gmail.com](mailto:isaackjoshua23@gmail.com)
 
 ## $ whoami
 
